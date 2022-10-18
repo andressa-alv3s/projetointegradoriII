@@ -1,0 +1,52 @@
+@{
+    ViewData["Title"] = "Login";
+}
+ 
+ <div class="text-center">
+    <p><h5>Registre aqui seu interesse em algum de nossos cursos.</h5></p>
+ </div>
+<form class="row g-3">
+        <div class="col-md-4">
+        <img src="~/img/book.jpg" alt="book">
+        </div>
+
+        <div class="col-md-8">
+        <label for="validationDefault01" class="form-label">Nome</label>
+        <input type="text" class="form-control" required>
+
+        <div class="col-md-12">
+            <label for="validationDefaultUsername" class="form-label">Email</label>
+                <div class="input-group"> <span class="input-group-text">nome@servidor.com</span> 
+                        <input type="text" class="form-control" required>
+                </div>
+        </div>
+        <div class="col-md-6">
+        <label for="validationDefault03" class="form-label">Telefone</label>
+        <input type="tel" class="form-control" required>
+            
+        <div class="col-md-12">
+                <label class="form-label">Curso</label>
+                <select class="form-select" required>
+                <option selected disabled value="">Escolha</option>
+                <option>Informática</option>
+                <option>Administração</option>
+                <option>Enfermagem</option>
+                </select>
+            </div>
+
+        <div class="col-md-12">
+                <label class="form-label">Turma</label>
+                <select class="form-select" required>
+                <option selected disabled value="">Escolha</option>
+                <option>Manhã</option>
+                <option>Tarde</option>
+                <option>Noite</option>
+                </select>
+                </div>
+        <div class="col-12">
+                <button class="btn btn-primary" type="submit">Cadastrar</button>
+        </div>
+        
+    </div>
+    <p><h6>Entraremos em contato após o cadastro para finalização do processo.</h6></p>
+</form>

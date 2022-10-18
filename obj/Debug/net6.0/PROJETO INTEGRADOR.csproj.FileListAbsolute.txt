@@ -1,0 +1,26 @@
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\bin\Debug\net6.0\appsettings.json
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\bin\Debug\net6.0\PROJETO INTEGRADOR.staticwebassets.runtime.json
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\bin\Debug\net6.0\PROJETO INTEGRADOR.exe
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\bin\Debug\net6.0\PROJETO INTEGRADOR.deps.json
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\bin\Debug\net6.0\PROJETO INTEGRADOR.runtimeconfig.json
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\bin\Debug\net6.0\PROJETO INTEGRADOR.dll
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\bin\Debug\net6.0\PROJETO INTEGRADOR.pdb
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.csproj.AssemblyReference.cache
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.AssemblyInfoInputs.cache
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.AssemblyInfo.cs
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.csproj.CoreCompileInputs.cache
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.RazorAssemblyInfo.cache
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.RazorAssemblyInfo.cs
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\scopedcss\bundle\PROJETO INTEGRADOR.styles.css
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\scopedcss\projectbundle\PROJETO INTEGRADOR.bundle.scp.css
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.dll
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\refint\PROJETO INTEGRADOR.dll
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.pdb
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\PROJETO INTEGRADOR.genruntimeconfig.cache
+C:\Users\Andressa\Documents\SENAC\MÓDULO II\Projeto Integrador B\PROJETO INTEGRADOR\obj\Debug\net6.0\ref\PROJETO INTEGRADOR.dll
