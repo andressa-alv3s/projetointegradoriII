@@ -16298,6 +16298,16 @@
   "RootNamespace": "PROJETO_INTEGRADOR",
   "Documents": [
     {
+      "FilePath": "c:\\Users\\Andressa\\Documents\\SENAC\\MÓDULO II\\Projeto Integrador B\\PROJETO INTEGRADOR\\Views\\Home\\Cadastrocurso.cshtml",
+      "TargetPath": "Views\\Home\\Cadastrocurso.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Andressa\\Documents\\SENAC\\MÓDULO II\\Projeto Integrador B\\PROJETO INTEGRADOR\\Views\\Home\\ListagemAlunos.cshtml",
+      "TargetPath": "Views\\Home\\ListagemAlunos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Andressa\\Documents\\SENAC\\MÓDULO II\\Projeto Integrador B\\PROJETO INTEGRADOR\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
       "FileKind": "mvc"
